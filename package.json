@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/rosefrancis-tech/social-network/issues"
   },
-  "homepage": "https://github.com/rosefrancis-tech/social-network#readme"
+  "homepage": "https://github.com/rosefrancis-tech/social-network#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3"
+  }
 }
