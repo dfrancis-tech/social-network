@@ -60,7 +60,7 @@ Website is coming soon to start networking!.
 This project has only backend. To start working,
 * Install Node.js
 * Download this repo to your local
-* In the terminal, from the root of this repo run `npm install express mongoose momemt`
+* In the terminal, from the root of this repo run `npm install express mongoose moment`
 * Start server by running `npm start` in the terminal
 * The following picture shows how to [start the app](https://drive.google.com/file/d/1uUp3l4MkiN-eyy-pivffqARnqRXPgCv0/view?usp=sharing) 
 ![start server image](public/assets/images/Social_Network-Start_Server.gif "Start server image")
