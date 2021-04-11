@@ -1,6 +1,6 @@
 #  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Social Networking
 
-[Summary](#Summary) &nbsp; &nbsp; [Introduction](#Introduction) &nbsp; &nbsp; [Built With](#Built-With) &nbsp; &nbsp; [User Story](#User-Story) &nbsp; &nbsp; [Acceptance Criteria](#Acceptance-Criteria) &nbsp; &nbsp; [Mock-Up](#Mock-up) &nbsp; &nbsp; [Code Review](#Code-Review)   
+[Summary](#Summary) &nbsp; &nbsp; [Introduction](#Introduction) &nbsp; &nbsp; [Built With](#Built-With) &nbsp; &nbsp; [User Story](#User-Story) &nbsp; &nbsp; [Acceptance Criteria](#Acceptance-Criteria) &nbsp; &nbsp; [Mock-Up](#Mock-up) &nbsp; &nbsp; [Project Review](#Project-Review)   
 
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [***Live Project***](#Live-Project)
 
@@ -13,7 +13,7 @@
 
 ## Live Project
 
-Visit [website]() and start networking!.
+Website is coming soon to start networking!.
 
 ## Built With
 * JavaScript ES5  
@@ -56,12 +56,21 @@ Visit [website]() and start networking!.
 
 </details>
 
-## Mock-Up
-The following image shows the web application's appearance and functionality.
+## Installation
+This project has only backend. To start working,
+* Install Node.js
+* Download this repo to your local
+* In the terminal, from the root of this repo run `npm install express mongoose momemt`
+* Start server by running `npm start` in the terminal
+* The following picture shows how to [start the app](https://drive.google.com/file/d/1uUp3l4MkiN-eyy-pivffqARnqRXPgCv0/view?usp=sharing) 
+![start server image](public/assets/images/Social_Network-Start_Server.gif "Start server image")
+* Please find other video links that demonstrate the working of the app in Insomnia
+    * [User Routes](https://drive.google.com/file/d/1EJZfu42XhwAZZPQxGMyPzvt_n3Z4PQOw/view?usp=sharing)
+    * [Thought Routes](https://drive.google.com/file/d/1KMK-1plAVfgeEwT5dJL7peG6hDXr8R02/view?usp=sharing)
+    * [Friends Routes](https://drive.google.com/file/d/1mv1K4Rv1sh-qfRwU5-vMfBQEqTovslDS/view?usp=sharing)
+    * [Reaction Routes](https://drive.google.com/file/d/14FzF8rVgCMJCJ65IJTkE5pJU2ahd42UT/view?usp=sharing)
 
-
-
-## Code Review
+## Project Review
 
 The completed project is uploaded in Github.  
 Repository link:  [GitHub](https://github.com/rosefrancis-tech/social-network)  
